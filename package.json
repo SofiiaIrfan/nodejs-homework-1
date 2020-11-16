@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-homework-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiiaIrfan/nodejs-homework-1.git"
+  },
+  "author": "SofiiaIrfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofiiaIrfan/nodejs-homework-1/issues"
+  },
+  "homepage": "https://github.com/SofiiaIrfan/nodejs-homework-1#readme",
+  "dependencies": {
+    "node-gyp": "^7.1.2",
+    "node-gyp-install": "^2.2.0",
+    "uuid": "^8.3.1",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
